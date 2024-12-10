@@ -1,4 +1,7 @@
-__pycache__/
-.ipynb_checkpoints/
-*env/
-emnist.zip
+*
+
+!prepare_model.ipynb
+!model.pkl
+!SVC.py
+!main.py
+!README.md
