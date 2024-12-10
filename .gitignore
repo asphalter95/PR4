@@ -2,3 +2,7 @@
 
 !.gitignore
 !prepare_model.ipynb
+!model.py
+!SVC.pkl
+!main.py
+!README.md
