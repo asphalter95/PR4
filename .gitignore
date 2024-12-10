@@ -1,8 +1,8 @@
 *
-
+!myapp/
+!myapp/prepare_model.ipynb
+!myapp/model.py
+!myapp/SVC.pkl
+!myapp/main.py
+!myapp/README.md
 !.gitignore
-!prepare_model.ipynb
-!model.py
-!SVC.pkl
-!main.py
-!README.md
