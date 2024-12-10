@@ -2,7 +2,3 @@
 
 !.gitignore
 !prepare_model.ipynb
-!model.py
-
-!main.py
-!README.md
