@@ -6,4 +6,5 @@
 !myapp/main.py
 !myapp/README.md
 !.gitignore
+!static/
 !requirements.txt

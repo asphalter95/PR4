@@ -28,8 +28,8 @@ numbers = re.sub(r'[^\d]', ' ', str(image)).split()
 ```bash
 git clone https://github.com/asphalter95/PR4.git
 cd ./myapp
-docker build -t appli .
-docker run -p 8000:8000 appli
+docker build -t myapp .
+docker run -p 8000:8000 myapp
 ```
 После запуска сервис будет доступен по адресу http://localhost:8000
 
