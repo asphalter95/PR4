@@ -1,5 +1,5 @@
 *
-
+!myapp
 !myapp/prepare_model.ipynb
 !myapp/model.py
 !myapp/MLP.pkl
