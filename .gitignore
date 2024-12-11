@@ -5,4 +5,5 @@
 !myapp/MLP.pkl
 !myapp/main.py
 !myapp/README.md
+!Dockerfile
 !.gitignore
