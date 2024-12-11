@@ -1,0 +1,9 @@
+*
+!myapp
+!myapp/prepare_model.ipynb
+!myapp/model.py
+!myapp/MLP.pkl
+!myapp/main.py
+!myapp/README.md
+!myapp/Dockerfile
+!.gitignore
